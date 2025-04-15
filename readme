@@ -1,0 +1,26 @@
+# Calculator Microservice
+
+A cloud-native calculator microservice built with Node.js and Express, providing basic arithmetic operations through RESTful endpoints.
+
+## Features
+
+- **Basic Operations**:
+  - Addition (`/add`)
+  - Subtraction (`/subtract`)
+  - Multiplication (`/multiply`)
+  - Division (`/divide`)
+  - Squareroot (`/divide`)
+  - Modulo (`/modulo`)
+  - Exponentiation (`/power`)
+
+- **Advanced Features**:
+  - Request validation
+  - Comprehensive logging
+  - Error handling
+  - JSON responses with timestamps
+
+## Prerequisites
+
+- Node.js (v14+ recommended)
+- npm (comes with Node.js)
+- Git (optional)
