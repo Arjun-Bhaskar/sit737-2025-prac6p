@@ -24,3 +24,6 @@ A cloud-native calculator microservice built with Node.js and Express, providing
 - Node.js (v14+ recommended)
 - npm (comes with Node.js)
 - Git (optional)
+- Docker
+- Minikube
+- kubectl
